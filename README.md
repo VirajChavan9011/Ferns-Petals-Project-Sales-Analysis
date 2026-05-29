@@ -8,3 +8,7 @@ Overall, this project demonstrates how data analytics can support strategic busi
 
 Customer's data
 <img width="1835" height="609" alt="image" src="https://github.com/user-attachments/assets/9d2de03d-bf42-4ff6-9ccd-7ed4505bdc5b" />
+Orders Data
+<img width="1772" height="621" alt="image" src="https://github.com/user-attachments/assets/7a78a3d3-7499-4913-9929-ffa459e26aa8" />
+Product Data
+<img width="1450" height="609" alt="image" src="https://github.com/user-attachments/assets/64298c7a-9586-4a4e-861c-8fbcf5638c3e" />
