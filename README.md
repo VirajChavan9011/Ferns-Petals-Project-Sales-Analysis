@@ -5,3 +5,6 @@ The analysis highlights that occasions such as Anniversary, Raksha Bandhan, and 
 City-wise analysis showed that Imphal, Dhanbad, and Kavali recorded the highest order volumes, enabling the business to identify strong regional markets for targeted promotions and logistics optimization. Monthly sales trends indicated peak revenue periods during festive seasons, emphasizing the importance of demand forecasting and inventory planning.
 
 Overall, this project demonstrates how data analytics can support strategic business decisions, improve customer experience, optimize operations, and maximize profitability in the gifting and e-commerce industry.
+
+Customer's data
+<img width="1835" height="609" alt="image" src="https://github.com/user-attachments/assets/9d2de03d-bf42-4ff6-9ccd-7ed4505bdc5b" />
